@@ -1,0 +1,24 @@
+.header{
+    background-color: #001e00;
+}
+.header ul li a {
+    text-decoration: none;
+    color:#fff;
+  }
+.headerul{
+    display: flex;
+    justify-content: center;
+}
+
+.headerul li{
+    background-color: none;
+    padding:1em;
+    list-style-type: none;
+    color: white;
+}
+.header_active {
+
+}
+.header_notactive{
+    
+}
